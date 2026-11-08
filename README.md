@@ -5,6 +5,7 @@ validates against the schema, with `null` for anything the text does not state.*
 
 - Model (LoRA adapter on Qwen3-4B-Instruct-2507): https://huggingface.co/abr-6024/schema-json-extractor-4B
 - Training data + generator: https://huggingface.co/datasets/abr-6024/schema-json-extractor-synthetic
+- Browse every eval case, tuned vs base, field by field: https://huggingface.co/spaces/abr-6024/schema-json-extractor-demo
 - Write-up of the whole process, including what did not work: [`BLOG.md`](BLOG.md)
 
 ## What it does and does not do (measured)
